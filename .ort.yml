@@ -1,0 +1,7 @@
+analyzer:
+  skip_excluded: true
+excludes:
+  paths:
+  - pattern: "packages/package-a/**"
+    reason: "TEST_OF"
+    comment: "Github Action Definitions"

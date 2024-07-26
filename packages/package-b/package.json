@@ -1,0 +1,6 @@
+{
+  "name": "package-b",
+  "dependencies": {
+    "nestjs": "^0.0.1"
+  }
+}
